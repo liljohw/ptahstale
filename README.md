@@ -1,4 +1,4 @@
-# PtahStale
+# Ptah's Tale
 
 > Procedural RPG baseado na **7ª Edição de Call of Cthulhu**, desenvolvido com **Unreal Engine 5.4.4**.
 
