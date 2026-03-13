@@ -6,7 +6,7 @@
 
 ## Visão Geral
 
-PtahStale é um jogo de investigação e horror cósmico de mundo aberto procedural. Cada partida gera um novo mapa, locações, pistas e encontros inspirados no universo Lovecraftiano, seguindo as mecânicas oficiais da **7ª Edição do RPG Call of Cthulhu** da Chaosium.
+Ptah's Tale é um jogo de investigação e horror cósmico de mundo aberto procedural. Cada partida gera um novo mapa, locações, pistas e encontros inspirados no universo Lovecraftiano, seguindo as mecânicas oficiais da **7ª Edição do RPG Call of Cthulhu** da Chaosium.
 
 O projeto é construído em **C++ + Blueprint** sobre Unreal Engine 5.4.4, aproveitando:
 - **PCG (Procedural Content Generation) Framework** para geração de mundos
