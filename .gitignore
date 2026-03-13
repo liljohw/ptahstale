@@ -1,0 +1,40 @@
+# Unreal Engine build artifacts
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Visual Studio / Rider generated files
+.vs/
+.idea/
+*.user
+
+# Compiled object / library files
+*.o
+*.obj
+*.lib
+*.dll
+*.exp
+*.pdb
+*.ilk
+
+# Content cooked output
+Content/Paks/
+CookedContent/
+
+# ShaderCache
+ShaderDebugInfo/
+
+# UE auto-generated files
+*.uasset
+*.umap
+
+# macOS
+.DS_Store
